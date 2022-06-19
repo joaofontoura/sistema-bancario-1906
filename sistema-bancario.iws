@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8284aa14-2721-46a9-af88-7d77eaa1a140" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2AoaLwI7063Kcu7fwZ7o4928iua" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/joaoc/Downloads/TesteSoftware-main/SistemaBancario1706",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.MovimentacaoTest">
+    <configuration name="ContaTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sistema-bancario" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sistemabancario.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sistemabancario.model" />
+      <option name="MAIN_CLASS_NAME" value="com.sistemabancario.model.ContaTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContaTest.testDepositoDinheiro" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sistema-bancario" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sistemabancario.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sistemabancario.model" />
+      <option name="MAIN_CLASS_NAME" value="com.sistemabancario.model.ContaTest" />
+      <option name="METHOD_NAME" value="testDepositoDinheiro" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MovimentacaoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sistema-bancario" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sistemabancario.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sistemabancario.model" />
+      <option name="MAIN_CLASS_NAME" value="com.sistemabancario.model.MovimentacaoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MovimentacaoTest.testSetDescricao" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sistema-bancario" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sistemabancario.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sistemabancario.model" />
+      <option name="MAIN_CLASS_NAME" value="com.sistemabancario.model.MovimentacaoTest" />
+      <option name="METHOD_NAME" value="testSetDescricao" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MovimentacaoTest" />
+        <item itemvalue="JUnit.MovimentacaoTest.testSetDescricao" />
+        <item itemvalue="JUnit.ContaTest" />
+        <item itemvalue="JUnit.ContaTest.testDepositoDinheiro" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8284aa14-2721-46a9-af88-7d77eaa1a140" name="Changes" comment="" />
+      <created>1655678345814</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655678345814</updated>
+      <workItem from="1655678347507" duration="2160000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
